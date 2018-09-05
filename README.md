@@ -1,5 +1,5 @@
 # test-wb-pages
 bla
 
-LICENSE.md bon fichier
-LICENSES.md mauvais fichier
+[LICENSE.md](LICENSE.md) bon fichier
+[LICENSES.md](LICENSES.md) mauvais fichier
