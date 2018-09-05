@@ -1,4 +1,4 @@
-# test-wb-pages
+# test-gh-pages
 bla
 
 [LICENSE.md](LICENSE.md) bon fichier
